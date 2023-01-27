@@ -1,0 +1,8 @@
+.loading-wrap {
+    display: flex;
+    justify-content: center;
+  }
+  .loading-wrap img {
+    max-width: 250px;
+    width: 100%;
+  }
